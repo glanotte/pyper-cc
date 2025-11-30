@@ -1,20 +1,11 @@
 {
   "name": "pyper-cc",
-  "description": "Claude Code plugin with meta-prompting workflows, structured todo management, thinking models, and domain expertise for Ruby/Rails and TypeScript/React development",
+  "description": "Claude Code plugin with meta-prompting workflows, structured todo management, thinking models, and domain expertise for Ruby/Rails and TypeScript/React development. Based on taches-cc-resources by glittercowboy.",
   "version": "1.0.0",
   "author": {
-    "name": "glanotte",
-    "url": "https://github.com/glanotte"
+    "name": "glanotte"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/glanotte/pyper-cc.git"
-  },
-  "based_on": {
-    "name": "taches-cc-resources",
-    "url": "https://github.com/glittercowboy/taches-cc-resources",
-    "author": "glittercowboy"
-  },
+  "repository": "https://github.com/glanotte/pyper-cc",
   "license": "MIT",
   "keywords": [
     "claude-code",
