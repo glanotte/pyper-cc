@@ -240,6 +240,6 @@ Created by [glanotte](https://github.com/glanotte)
 
 ## Acknowledgments
 
+- **Based on [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) by [glittercowboy](https://github.com/glittercowboy)** - The meta-prompting system, todo management, and thinking models in this plugin are heavily inspired by and adapted from their excellent work
 - Built for [Claude Code](https://claude.ai/claude-code) by Anthropic
-- Inspired by the meta-prompting patterns from the AI engineering community
 - Thinking models adapted from classical problem-solving frameworks

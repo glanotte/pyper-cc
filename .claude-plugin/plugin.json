@@ -10,6 +10,11 @@
     "type": "git",
     "url": "https://github.com/glanotte/pyper-cc.git"
   },
+  "based_on": {
+    "name": "taches-cc-resources",
+    "url": "https://github.com/glittercowboy/taches-cc-resources",
+    "author": "glittercowboy"
+  },
   "license": "MIT",
   "keywords": [
     "claude-code",
