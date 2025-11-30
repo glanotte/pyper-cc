@@ -1,0 +1,27 @@
+# Generated prompts (user-specific)
+prompts/
+
+# Handoff documents (user-specific)
+whats-next.md
+
+# Todo files (user-specific)
+TO-DOS.md
+
+# Claude local settings
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log

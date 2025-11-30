@@ -1,0 +1,15 @@
+{
+  "name": "pyper-cc-marketplace",
+  "owner": {
+    "name": "glanotte",
+    "url": "https://github.com/glanotte"
+  },
+  "plugins": [
+    {
+      "name": "pyper-cc",
+      "description": "Claude Code plugin with meta-prompting workflows, structured todo management, thinking models, and domain expertise for Ruby/Rails and TypeScript/React development",
+      "version": "1.0.0",
+      "source": "./.."
+    }
+  ]
+}
